@@ -1,7 +1,5 @@
 ## Hi there check out my YouTube Channel ! 👋
-<div align="center">
-![![YOUTUBE](https://img.youtube.com/vi/s4UAVImnuRg/0.jpg)](https://www.youtube.com/watch?v=s4UAVImnuRg)
-</div>
+![![YOUTUBE](https://img.youtube.com/vi/s4UAVImnuRg/0.jpg)](https://www.youtube.com/playlist?list=PLUmDG5vO3YI3ivCLl8GJqw2dFne6KhT6n)
 <!--
 **FnSK4R17s/FnSK4R17s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
