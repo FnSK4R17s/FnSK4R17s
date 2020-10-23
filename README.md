@@ -1,4 +1,4 @@
-[![YOUTUBE](pics/YouTube_banner.png)](https://www.youtube.com/playlist?list=PLUmDG5vO3YI3ivCLl8GJqw2dFne6KhT6n)
+[![YOUTUBE](pics/YouTube_banner.png)](https://www.youtube.com/channel/UCtL2aRGYb3Fi2SH1r6jXLfQ)
 ## Hi there check out my YouTube Channel ! 👋
 
 <!--
