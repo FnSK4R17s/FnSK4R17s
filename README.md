@@ -1,5 +1,6 @@
 [![YOUTUBE](pics/YouTube_banner.png)](https://www.youtube.com/channel/UCtL2aRGYb3Fi2SH1r6jXLfQ)
-## Hi there check out my YouTube Channel ! 👋
+## Hello there 🙂
+## check out my YouTube Channel ! 👋
 
 <!--
 **FnSK4R17s/FnSK4R17s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
